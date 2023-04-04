@@ -5,3 +5,4 @@
 
 In conclusion, the execution time between the array-based and linked list-based stack implementations remains roughly the same.
 
+[https://github.com/190268K-CH-20/CS2023/tree/master/Lab%206]: 	"GitHub code"
